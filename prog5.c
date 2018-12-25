@@ -7,10 +7,10 @@ int main(){
     printf("a = ");
     scanf("%d",&b);
 
-    printf("˜a : %d\n",a+b);
-    printf("· : %d\n",a-b);
-    printf("Ï : %d\n",a*b);
-    printf("¤ : %d\n",a/b);
+    printf("å’Œ : %d\n",a+b);
+    printf("å·® : %d\n",a-b);
+    printf("ç© : %d\n",a*b);
+    printf("å•† : %d\n",a/b);
 
 
 }
